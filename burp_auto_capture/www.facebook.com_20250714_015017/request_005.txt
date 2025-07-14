@@ -1,0 +1,125 @@
+POST /tr/ HTTP/2
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: multipart/form-data; boundary=----geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Length: 3616
+Referer: https://vaidebet.bet.br/
+Origin: https://vaidebet.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="id"
+
+475843832204038
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="dl"
+
+https://vaidebet.bet.br/ptb/bet/main
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="rl"
+
+
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="if"
+
+false
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="ts"
+
+1752454920892
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"hdr-login-btn sign-in-btn","destination":"https://vaidebet.bet.br/ptb/bet/main","id":"","imageUrl":"","innerText":"LOGIN","numChildButtons":0,"tag":"button","type":null,"name":"","value":""}
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="cd[buttonText]"
+
+LOGIN
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[{"id":"username","name":"","tag":"input","placeholder":"UsuÃ¡rio","inputType":"text"},{"id":"password-login","name":"","tag":"input","placeholder":"Senha","inputType":"password"}]
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Vaidebet: A casa de apostas lÃ­der do mercado - Vai de bet"}
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="cd[parameters]"
+
+[]
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="sw"
+
+2560
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="sh"
+
+1080
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="v"
+
+2.9.215
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="r"
+
+stable
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="a"
+
+tmSimo-GTM-WebTemplate
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="ec"
+
+3
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="o"
+
+4126
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="fbp"
+
+fb.2.1752362541477.92410640379217825
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="cs_est"
+
+true
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="ler"
+
+empty
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="it"
+
+1752454897990
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="coo"
+
+false
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="es"
+
+automatic
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="tm"
+
+3
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="exp"
+
+k2
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672
+Content-Disposition: form-data; name="rqm"
+
+SB
+------geckoformboundary529a6eb586eb88e0d1bc3839f1a6a672--
