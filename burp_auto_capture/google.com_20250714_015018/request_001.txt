@@ -1,0 +1,15 @@
+POST /pagead/form-data/11320945772?gtm=45be5791v9198967682za200zb892878899&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104909302~104909304~104935091~104935093&npa=0&frm=0&pscdl=noapi&auid=887014854.1752362541&_tu=Dg HTTP/2
+Host: google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://vaidebet.bet.br/
+Origin: https://vaidebet.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Content-Length: 0
+Te: trailers
+
