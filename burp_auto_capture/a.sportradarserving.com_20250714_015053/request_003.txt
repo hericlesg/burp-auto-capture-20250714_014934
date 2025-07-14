@@ -1,0 +1,12 @@
+GET /pixel?type=js&aid=1535&id=6164 HTTP/2
+Host: a.sportradarserving.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://vaidebet.bet.br/
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Te: trailers
+
