@@ -1,0 +1,117 @@
+POST /tr/ HTTP/2
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: multipart/form-data; boundary=----geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Length: 3170
+Referer: https://vaidebet.bet.br/
+Origin: https://vaidebet.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="id"
+
+874746241409073
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="dl"
+
+https://vaidebet.bet.br/ptb/bet/main
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="rl"
+
+
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="if"
+
+false
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="ts"
+
+1752454927683
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"btn btn-close","destination":"","id":"","imageUrl":"","innerText":"Mais tarde","numChildButtons":0,"tag":"button","type":null,"name":"","value":""}
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="cd[buttonText]"
+
+Mais tarde
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[]
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Vaidebet: A casa de apostas lÃ­der do mercado - Vai de bet"}
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="sw"
+
+2560
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="sh"
+
+1080
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="v"
+
+2.9.215
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="r"
+
+stable
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="a"
+
+tmSimo-GTM-WebTemplate
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="ec"
+
+3
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="o"
+
+4126
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="fbp"
+
+fb.2.1752362541477.92410640379217825
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="ler"
+
+empty
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="it"
+
+1752454897990
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="coo"
+
+false
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="es"
+
+automatic
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="tm"
+
+3
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="exp"
+
+k2
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577
+Content-Disposition: form-data; name="rqm"
+
+SB
+------geckoformboundaryd63ae08c3237db01828cd3b85f7ba577--
