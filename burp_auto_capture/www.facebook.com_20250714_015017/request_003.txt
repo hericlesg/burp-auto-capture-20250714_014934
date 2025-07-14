@@ -1,0 +1,117 @@
+POST /tr/ HTTP/2
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: multipart/form-data; boundary=----geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Length: 3386
+Referer: https://vaidebet.bet.br/
+Origin: https://vaidebet.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="id"
+
+297470803423154
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="dl"
+
+https://vaidebet.bet.br/ptb/bet/main
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="rl"
+
+
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="if"
+
+false
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="ts"
+
+1752454920895
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"hdr-login-btn sign-in-btn","destination":"https://vaidebet.bet.br/ptb/bet/main","id":"","imageUrl":"","innerText":"LOGIN","numChildButtons":0,"tag":"button","type":null,"name":"","value":""}
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="cd[buttonText]"
+
+LOGIN
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[{"id":"username","name":"","tag":"input","placeholder":"UsuÃ¡rio","inputType":"text"},{"id":"password-login","name":"","tag":"input","placeholder":"Senha","inputType":"password"}]
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Vaidebet: A casa de apostas lÃ­der do mercado - Vai de bet"}
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="sw"
+
+2560
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="sh"
+
+1080
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="v"
+
+2.9.215
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="r"
+
+stable
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="a"
+
+tmSimo-GTM-WebTemplate
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="ec"
+
+2
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="o"
+
+4126
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="fbp"
+
+fb.2.1752362541477.92410640379217825
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="ler"
+
+empty
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="it"
+
+1752454897990
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="coo"
+
+false
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="es"
+
+automatic
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="tm"
+
+3
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="exp"
+
+k2
+------geckoformboundary95de814d2f06c7556e1303f1a8352064
+Content-Disposition: form-data; name="rqm"
+
+SB
+------geckoformboundary95de814d2f06c7556e1303f1a8352064--
