@@ -1,0 +1,19 @@
+POST /api/user/login HTTP/2
+Host: vaidebet.bet.br
+Cookie: fb_utm_source=undefined; _gcl_au=1.1.887014854.1752362541.1563332678.1752454859.1752454918; _ga_833TYZP13Q=GS2.1.s1752454810$o6$g1$t1752454897$j57$l0$h0; _ga=GA1.1.663154045.1752362541; _ga_PJ5V85MP8Z=GS2.1.s1752454810$o6$g1$t1752454918$j36$l0$h0; _fbp=fb.2.1752362541477.92410640379217825; _tt_enable_cookie=1; _ttp=01K00F4RS4QV1NA0E92FGQ8YB0_.tt.2; ttcsid_CQPR8FJC77UD2I8MH3T0=1752454814954::-jTAxWm0stoSaRWXQ_1O.5.1752454920908; ttcsid=1752454814954::ljzIyYICxLcl85Spk0s5.5.1752454898462; _ga_9DV344ZVDG=GS2.1.s1752454810$o6$g1$t1752454899$j55$l0$h0; _sp_srt_id.28f7=dd0634a5-c07f-4d25-aa5c-27082449050e.1752362543.5.1752454900.1752449303.3092a5d0-d6bc-4919-8d05-6a0ed04dd9d3.df20baed-1002-4ae2-b666-c00b3eba518a...0; _hjSessionUser_3908100=eyJpZCI6ImVkODcxOTQ1LWJmMDktNTk2YS1hNDViLTc2MTU4Mzc1OWMyYiIsImNyZWF0ZWQiOjE3NTI0MjI5NjI0NTgsImV4aXN0aW5nIjp0cnVlfQ==; __smartico_ls_id=0dd47357-676f-462b-af4f-e85144ecbd4b; em=undefined; _hjSession_3908100=eyJpZCI6ImY2NjRjZWM4LTk2NGUtNDg4Mi05MmY1LTE3ZWUwYWRhMDAwNCIsImMiOjE3NTI0NTQ4MTQ2NTgsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=; _sp_srt_ses.28f7=*; lang=ptb; NCC=PTB
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: application/json, text/plain, */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 214
+Referer: https://vaidebet.bet.br/ptb/bet/main
+Finger_print: faafdca5143678038839bd665ff67b64
+Origin: https://vaidebet.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=0
+Te: trailers
+
+{"requestBody":{"username":"kq7or3oemg","email":null,"phone":null,"cpf":null,"keepLoggedIn":null,"password":"@nVx80aYRz","loginType":1,"fingerPrint":"faafdca5143678038839bd665ff67b64"},"languageId":23,"device":"d"}
