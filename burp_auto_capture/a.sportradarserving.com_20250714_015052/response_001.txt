@@ -1,0 +1,11 @@
+HTTP/2 302 Found
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Length: 0
+Date: Mon, 14 Jul 2025 04:45:48 GMT
+Location: https://a.sportradarserving.com/ul_cb/pixel?type=js&aid=1535&id=6164
+Set-Cookie: zuuid=5b9de49e-01eb-4342-9982-f60d3b90e40f; path=/; expires=Mon, 13-Jul-2026 04:45:48 GMT; domain=sportradarserving.com; samesite=none; secure
+Set-Cookie: c=1752468348; path=/; expires=Mon, 13-Jul-2026 04:45:48 GMT; domain=sportradarserving.com; samesite=none; secure
+Set-Cookie: zuuid_lu=1752468348; path=/; expires=Mon, 13-Jul-2026 04:45:48 GMT; domain=sportradarserving.com; samesite=none; secure
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
