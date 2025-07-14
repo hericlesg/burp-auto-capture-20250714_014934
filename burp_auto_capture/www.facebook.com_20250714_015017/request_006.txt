@@ -1,0 +1,121 @@
+POST /tr/ HTTP/2
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: multipart/form-data; boundary=----geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Length: 3570
+Referer: https://vaidebet.bet.br/
+Origin: https://vaidebet.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="id"
+
+932982895435244
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="dl"
+
+https://vaidebet.bet.br/ptb/bet/main
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="rl"
+
+
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="if"
+
+false
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="ts"
+
+1752454920900
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"hdr-login-btn sign-in-btn","destination":"https://vaidebet.bet.br/ptb/bet/main","id":"","imageUrl":"","innerText":"LOGIN","numChildButtons":0,"tag":"button","type":null,"name":"","value":""}
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="cd[buttonText]"
+
+LOGIN
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[{"id":"username","name":"","tag":"input","placeholder":"UsuÃ¡rio","inputType":"text"},{"id":"password-login","name":"","tag":"input","placeholder":"Senha","inputType":"password"}]
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Vaidebet: A casa de apostas lÃ­der do mercado - Vai de bet"}
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="sw"
+
+2560
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="sh"
+
+1080
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="v"
+
+2.9.215
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="r"
+
+stable
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="a"
+
+tmSimo-GTM-WebTemplate
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="ec"
+
+2
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="o"
+
+4126
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="fbp"
+
+fb.2.1752362541477.92410640379217825
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="ler"
+
+empty
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="eid"
+
+ob3_plugin-set_10d232ad7aca130d353ac4b9f271229c2270094a581d410beac664d2120f221b
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="it"
+
+1752454897990
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="coo"
+
+false
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="es"
+
+automatic
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="tm"
+
+3
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="exp"
+
+k2
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3
+Content-Disposition: form-data; name="rqm"
+
+SB
+------geckoformboundary9ac4ea4cd195c76c6dfd9295671de2a3--
