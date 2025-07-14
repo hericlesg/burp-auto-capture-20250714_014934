@@ -1,0 +1,12 @@
+HTTP/2 200 OK
+Content-Type: text/plain
+Access-Control-Allow-Origin: https://vaidebet.bet.br
+Access-Control-Allow-Credentials: true
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cross-Origin-Resource-Policy: cross-origin
+Content-Length: 0
+Server: proxygen-bolt
+X-Fb-Connection-Quality: EXCELLENT; q=0.9, rtt=22, rtx=0, c=10, mss=1392, tbw=536, tp=-1, tpl=-1, uplat=4, ullat=4
+Alt-Svc: h3=":443"; ma=86400
+Date: Mon, 14 Jul 2025 01:01:46 GMT
+
